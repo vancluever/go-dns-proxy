@@ -1,6 +1,6 @@
 module github.com/vancluever/go-dns-proxy
 
-require github.com/miekg/dns v1.1.4
+require github.com/miekg/dns v1.1.25
 
 require (
 	golang.org/x/crypto v0.1.0 // indirect
